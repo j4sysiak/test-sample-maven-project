@@ -5,7 +5,8 @@
   <groupId>flipkart</groupId>
   <artifactId>offers</artifactId>
 <!--  <version>1.7-SNAPSHOT</version>-->
-      <version>1.7-RELEASE</version>
+<!--      <version>1.7-RELEASE</version>-->
+    <version>25-11-2022-2047</version>
   <packaging>jar</packaging>
 
   <name>offers</name>
