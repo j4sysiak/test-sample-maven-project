@@ -7,7 +7,7 @@
 
 <!--  to do konfiguracji w Jenkinsie  -->
 <!--  pojawi się w repo:   -->
-    <version>0.0.8</version>
+    <version>0.0.9</version>
     <packaging>jar</packaging>
 
   <name>offers</name>
